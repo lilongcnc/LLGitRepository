@@ -17,8 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     dev1
-    dev5
-    
 
     // Do any additional setup after loading the view.
 }
